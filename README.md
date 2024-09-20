@@ -1,9 +1,9 @@
 Cara Penggunaan
 1. Jalankan program main.py
 2. Menginput Pesan
-Pilih metode input pesan:
-Unggah File: Klik tombol "Unggah File" dan pilih file .txt.
-Input Langsung: Ketik pesan pada area input yang tersedia.
+Pilih metode input pesan, yaitu
+Unggah file: Klik tombol "Unggah File" dan pilih file .txt. atau
+Input langsung: Ketik pesan pada area input yang tersedia.
 3. Memilih Cipher
 Pilih salah satu cipher: Vigenere, Playfair, atau Hill.
 Masukkan kunci (minimal 12 karakter) pada area input kunci.

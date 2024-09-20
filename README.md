@@ -1,8 +1,8 @@
 Cara Penggunaan
 1. Jalankan program main.py
 2. Pilih metode input pesan, yaitu
-unggah file: Klik tombol "Unggah File" dan pilih file .txt. atau
-input langsung: Ketik pesan pada area input yang tersedia.
+unggah file (klik tombol "Unggah File" dan pilih file .txt.) atau
+input langsung (ketik pesan pada area input yang tersedia).
 3. Pilih salah satu cipher: Vigenere, Playfair, atau Hill.
 Masukkan kunci (minimal 12 karakter) pada area input kunci.
 4. Tekan tombol "Enkripsi" atau "Dekripsi" (khusus untuk Vigenere Cipher).

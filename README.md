@@ -1,6 +1,18 @@
-Aplikasi desktop ini dibangun dengan bahasa pemrograman Python dan memiliki antarmuka GUI untuk mengenkripsi dan mendekripsi pesan menggunakan tiga jenis cipher,
-meliputi Vigenere, yang memungkinkan pengguna untuk melakukan enkripsi dan dekripsi;
-Playfair, yang hanya mendukung enkripsi;
-serta Hill, yang juga hanya mendukung enkripsi. 
-
-Setiap cipher memerlukan kunci dengan panjang minimal 12 karakter untuk memastikan keamanan proses enkripsi. Pengguna memiliki fleksibilitas untuk mengunggah file berformat .txt yang berisi pesan yang ingin diproses, atau mereka dapat mengetik pesan secara langsung melalui antarmuka.
+Cara Penggunaan
+1. Jalankan program main.py
+2. Menginput Pesan
+Pilih metode input pesan:
+Unggah File: Klik tombol "Unggah File" dan pilih file .txt.
+Input Langsung: Ketik pesan pada area input yang tersedia.
+3. Memilih Cipher
+Pilih salah satu cipher: Vigenere, Playfair, atau Hill.
+Masukkan kunci (minimal 12 karakter) pada area input kunci.
+4. Proses Enkripsi/Dekripsi
+Tekan tombol "Enkripsi" atau "Dekripsi" (khusus untuk Vigenere Cipher).
+Untuk Playfair dan Hill, hanya tersedia opsi "Enkripsi."
+5. Hasil
+Hasil enkripsi atau dekripsi akan ditampilkan di area output pada GUI.
+Anda juga dapat menyimpan hasil ke file .txt.
+Catatan:
+-- Hill Cipher dan Playfair Cipher hanya mendukung enkripsi.
+-- Kunci harus memiliki panjang minimal 12 karakter untuk setiap cipher.
